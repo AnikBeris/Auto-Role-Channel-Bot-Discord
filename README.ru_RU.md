@@ -22,7 +22,7 @@
 **Если этот проект оказался полезным для вас, вы можете оценить его, поставив звёздочку.**:star2:
 
 <p align="left">
-  <a href="https://buymeacoffee.com/mhsanaei" target="_blank">
+  <a href="https://pay.cloudtips.ru/p/7249ba98" target="_blank">
     <img src="./media/buymeacoffe.png" alt="Image">
   </a>
 </p>
@@ -93,6 +93,18 @@ python bot.py
    python bot.py
    ```
 3. УСПЕХ! Бот сам создаст роли и каналы!
+
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./media/04-info-channel-ADD.gif">
+    <img alt="Project Logo" src="./media/04-info-channel-ADD.gif">
+  </picture>
+</p>
+
+
+
+
 
 ## Лицензия
 Этот проект распространяется по [MIT License](https://github.com/your-repo/blob/main/LICENSE).
