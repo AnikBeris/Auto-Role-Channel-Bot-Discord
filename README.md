@@ -22,7 +22,7 @@
 **If you like this project, don't forget to leave a star.**:star2:
 
 <p align="left">
-  <a href="https://buymeacoffee.com/mhsanaei" target="_blank">
+  <a href="https://pay.cloudtips.ru/p/7249ba98" target="_blank">
     <img src="./media/buymeacoffe.png" alt="Image">
   </a>
 </p>
@@ -94,6 +94,15 @@ python bot.py
    python bot.py
    ```
 3. The bot will automatically create roles and channels!
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./media/04-info-channel-ADD.gif">
+    <img alt="Project Logo" src="./media/04-info-channel-ADD.gif">
+  </picture>
+</p>
+
+
 
 ## License
 This project is licensed under the [MIT License](https://github.com/your-repo/blob/main/LICENSE).
