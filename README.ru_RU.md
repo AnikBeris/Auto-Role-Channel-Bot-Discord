@@ -46,7 +46,7 @@
 
 ```bash
 # Клонируем репозиторий
-git clone https://github.com/your-repo.git
+git clone https://github.com/AnikBeris/Auto-Role-Channel-Bot-Discord.git
 cd your-repo
 
 # Устанавливаем зависимости
