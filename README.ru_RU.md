@@ -47,7 +47,7 @@
 ```bash
 # Клонируем репозиторий
 git clone https://github.com/AnikBeris/Auto-Role-Channel-Bot-Discord.git
-cd your-repo
+cd Role-Channel-Bot-Discord
 
 # Устанавливаем зависимости
 pip install -r requirements.txt
