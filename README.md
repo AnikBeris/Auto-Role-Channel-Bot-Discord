@@ -48,7 +48,7 @@ Donations are warmly welcomed no matter how small and thank you very much. 😌
 ```bash
 # Clone the repository
 git clone https://github.com/AnikBeris/Auto-Role-Channel-Bot-Discord.git
-cd your-repo
+cd Role-Channel-Bot-Discord
 
 # Install dependencies
 pip install -r requirements.txt
