@@ -9,9 +9,9 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-blue?style=flat&logo=github)](https://github.com/your-repo)
-[![License](https://img.shields.io/badge/License-purple?style=flat&logo=github)](https://github.com/your-repo/blob/main/LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/your-repo?style=flat&logo=github&label=Stars&color=orange)](https://github.com/your-repo)
+[![GitHub](https://img.shields.io/badge/GitHub-blue?style=flat&logo=github)](https://github.com/AnikBeris)
+[![License](https://img.shields.io/badge/License-purple?style=flat&logo=github)](https://github.com/AnikBeris/AutoRoleChannelBot/blob/main/LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/your-repo?style=flat&logo=github&label=Звёзды&color=orange)](https://github.com/AnikBeris)
 
 </div>
 
