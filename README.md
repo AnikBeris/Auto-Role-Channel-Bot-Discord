@@ -43,21 +43,34 @@ Donations are warmly welcomed no matter how small and thank you very much. 😌
 - Creates a structured category and channel system
 - Supports separate role display in the member list
 
-## Installation
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./media/04-info-channel-ADD.gif">
+    <img alt="Project Logo" src="./media/04-info-channel-ADD.gif">
+  </picture>
+</p>
 
+
+# Installation
+
+
+## Clone the repository
 ```bash
-# Clone the repository
 git clone https://github.com/AnikBeris/Auto-Role-Channel-Bot-Discord.git
 cd Role-Channel-Bot-Discord
+```
 
-# Install dependencies
+## Install dependencies
+```bash
 pip install -r requirements.txt
+```
 
-# Run the bot
+## Run the bot
+```bash
 python bot.py
 ```
 
-## Role Permissions
+# Role Permissions
 
 | Role Name    | Permissions |
 |-------------|-------------|
@@ -66,20 +79,24 @@ python bot.py
 | 🛡 ADM      | Full administrator rights |
 | 🔨 MOD      | Manage messages, mute/deafen/move members, kick members |
 
-## How to Set Up the Bot
+# How to Set Up the Bot
 
-### 1. Creating a Discord Bot
+## 1. Creating a Discord Bot
 1. Go to the [Discord Developer Portal](https://discord.com/developers/applications).
 2. Click "New Application", enter a name, and save.
 3. Navigate to "Bot" -> "Add Bot" -> Confirm.
 4. Copy the bot **Token** (you will need this later).
 5. Enable **Privileged Gateway Intents** (Presence, Server Members, and Message Content).
 
-### 2. Getting Your GUILD_ID
+---
+
+## 2. Getting Your GUILD_ID
 1. Enable Developer Mode in Discord (Settings -> Advanced -> Developer Mode).
 2. Right-click your server name and select "Copy ID". This is your `GUILD_ID`.
 
-### 3. Inviting the Bot to Your Server
+---
+
+## 3. Inviting the Bot to Your Server
 1. Go to the **OAuth2** -> "URL Generator".
 2. Select **bot** and **applications.commands**.
 3. Under **Bot Permissions**, select:
@@ -87,9 +104,11 @@ python bot.py
 4. Copy the generated link and paste it into your browser.
 5. Select your server and authorize the bot.
 
-### 4. Configuring and Running the Bot
-1. Open `config.json` and add your **TOKEN** and **GUILD_ID**.
-2. Run the bot:
+---
+
+## 4. Configuring and Running the Bot
+  1. Open `config.json` and add your **TOKEN** and **GUILD_ID**.
+  2. Run the bot:
    ```bash
    python bot.py
    ```
